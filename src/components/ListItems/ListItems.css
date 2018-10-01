@@ -1,0 +1,35 @@
+ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;
+  margin-right: 40px;
+}
+
+li {
+  margin: 5px 0px;
+  width: 15em;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 1.1em;
+  font-weight: bold;
+  color: black;
+  line-height: 2em;
+  background-color: lightblue;
+}
+
+li:hover {
+  background-color: darkgray;
+  color: white;
+  cursor: pointer;
+}
+
+span {
+  align-self: right;
+}
+
+.done {
+  background-color: darkgray;
+  color: black;
+  text-decoration: line-through;
+}

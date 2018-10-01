@@ -14,7 +14,6 @@ class App extends Component {
 
     if (event.key === 'Enter' && output.length > 0) {
       const todoItems = this.state.todos;
-
       todoItems.push(output);
 
       this.setState({
