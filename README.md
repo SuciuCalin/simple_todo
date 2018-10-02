@@ -1,8 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-### How to Run:
+### Installation:
 1.  Clone or download this repository.
 2.  Navigate to the project folder: `cd simple-todo-app`
-3.  Install the dependencies: `npm install`
-4.  Start the **Development Build** with `npm start` /
-  **Production Build** with `npm run build` and follow the instructions
+
+*You’ll need to have [Node.js](https://nodejs.org/en/download/) and
+ [npm](https://www.npmjs.com/get-npm), or [Yarn](https://yarnpkg.com/en/) on your local
+ development machine.
+ Please make sure to have them installed before proceeding.*
+
+3.  Install the dependencies: `npm install` / `yarn install`
+4.  Start the **Development Build** with `npm start` / `yarn start` or the
+  **Production Build** with `npm run build` / `npm run build` and follow the instructions.
