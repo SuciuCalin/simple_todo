@@ -11,4 +11,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 3.  Install the dependencies: `npm install` / `yarn install`
 4.  Start the **Development Build** with `npm start` / `yarn start` or the
-  **Production Build** with `npm run build` / `npm run build` and follow the instructions.
+  **Production Build** with `npm run build` / `yarn build` and follow the instructions.
